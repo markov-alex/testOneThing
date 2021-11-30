@@ -1,5 +1,5 @@
 public class A {
     public int num() {
-        return 1;
+        return 2;
     }
 }
